@@ -1,0 +1,9 @@
+# في مجلد المشروع
+git init
+git add .
+git commit -m "Initial commit - TikTok Monitor"
+git branch -M main
+
+# أنشئ repo جديد على GitHub ثم:
+git remote add origin https://github.com/USERNAME/tiktok-telegram-bot.git
+git push -u origin main
